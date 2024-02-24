@@ -5,82 +5,97 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="832ab0c4-706e-4a2f-abf8-d35033a384c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/djangoProject_multi_shop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/carousel-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/carousel-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/carousel-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/cat-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/cat-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/cat-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/cat-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/offer-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/offer-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/payments.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/animate/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/easing/easing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/easing/easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/mail/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/mail/contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/statics/mail/jqBootstrapValidation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject_multi_shop/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/templates/account/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/templates/account/otp_login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/templates/product/product_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/templates/product/products_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statics/css/category.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject_multi_shop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/carousel-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/carousel-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/carousel-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/carousel-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/carousel-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/carousel-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/cat-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/cat-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/cat-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/cat-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/cat-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/cat-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/cat-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/cat-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/offer-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/offer-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/offer-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/offer-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/payments.png" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/payments.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/product-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/product-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/product-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/product-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/product-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/product-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/product-7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/product-8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/product-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/product-9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/user.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/user.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/vendor-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/vendor-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/vendor-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/vendor-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/vendor-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/vendor-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/vendor-7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/img/vendor-8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/statics/img/vendor-8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/statics/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/animate/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/easing/easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/easing/easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/lib/owlcarousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/mail/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/statics/mail/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/mail/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/statics/mail/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/statics/mail/jqBootstrapValidation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/statics/mail/jqBootstrapValidation.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject_multi_shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject_multi_shop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/home/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -93,12 +108,15 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.djangoProject_multi_shop.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/apple/PycharmProjects/djangoProject_multi_shop/templates/home&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/apple/PycharmProjects/djangoProject_multi_shop/statics/css&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -109,8 +127,16 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates/home" />
-      <recent name="$PROJECT_DIR$/djangoProject_multi_shop/statics" />
+      <recent name="$PROJECT_DIR$/statics/css" />
+      <recent name="$PROJECT_DIR$/templates/includes" />
+      <recent name="$PROJECT_DIR$/home/statics/home" />
+      <recent name="$PROJECT_DIR$/home/statics" />
+      <recent name="$USER_HOME$/Desktop" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/account/templates/account" />
+      <recent name="$PROJECT_DIR$/account/templates" />
     </key>
   </component>
   <component name="RunManager">
@@ -121,6 +147,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="djangoProject_multi_shop.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -155,11 +182,37 @@
       <option name="presentableId" value="Default" />
       <updated>1706548173729</updated>
       <workItem from="1706548298773" duration="3050000" />
-      <workItem from="1706555082085" duration="36000" />
+      <workItem from="1706555082085" duration="18103000" />
+      <workItem from="1706685008105" duration="12878000" />
+      <workItem from="1706769425731" duration="22198000" />
+      <workItem from="1706885557966" duration="5532000" />
+      <workItem from="1706950561558" duration="39833000" />
+      <workItem from="1707316221740" duration="13733000" />
+      <workItem from="1707461863149" duration="333000" />
+      <workItem from="1707489546167" duration="121000" />
+      <workItem from="1707573101123" duration="135000" />
+      <workItem from="1707910742248" duration="342000" />
+      <workItem from="1708070100142" duration="4000" />
+      <workItem from="1708112979462" duration="261000" />
+      <workItem from="1708185033743" duration="11100000" />
+      <workItem from="1708349410220" duration="10610000" />
+      <workItem from="1708545189667" duration="7588000" />
+      <workItem from="1708765724059" duration="1138000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
